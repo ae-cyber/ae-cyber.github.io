@@ -12,6 +12,9 @@ categories:
     - HackTheBox-Writeups
 tags:
     - HTB
+toc: true
 ---
+
+### Heading 1
 
 Testing whether this updates properly!!
