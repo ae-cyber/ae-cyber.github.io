@@ -2,7 +2,6 @@
 title: "Test1"
 description: 
 date: 2023-08-13T21:09:06Z
-image: content/post/HTB/cover.jpg
 math: 
 license: 
 hidden: false
@@ -15,6 +14,6 @@ tags:
 toc: true
 ---
 
-### Heading 1
+# Heading 1
 
 Testing whether this updates properly!!
