@@ -2,7 +2,7 @@
 title: "Test1"
 description: 
 date: 2023-08-13T21:09:06Z
-image: 
+image: testpicture.jpg
 math: 
 license: 
 hidden: false
