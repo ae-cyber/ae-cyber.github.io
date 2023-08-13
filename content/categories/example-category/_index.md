@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: HackTheBox Writeups
+description: Walkthroughs and notes taken from HackTheBox machines.
 image:
 
 # Badge style
