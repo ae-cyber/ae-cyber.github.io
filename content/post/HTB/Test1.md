@@ -12,6 +12,7 @@ categories:
     - HackTheBox-Writeups
 tags:
     - HTB
+image: cover.jpg
 ---
 
 Testing whether this updates properly
