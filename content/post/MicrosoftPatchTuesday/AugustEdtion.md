@@ -15,7 +15,7 @@ tags:
 toc: true
 ---
 
-!(Padlock)[./SecurityPadlock.png]
+!(Padlock)[content/post/MicrosoftPatchTuesday/SecurityPadlock.png]
 
 Each month Microsoft releases its "Patch Tuesday", the August edition brings 87 vulnerabilities, where 76 have been included as patches, of these 6 are critical, 68 are important and 2 are moderate:
 
