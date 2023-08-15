@@ -1,5 +1,5 @@
 ---
-title: "AugustEdtion"
+title: "Microsoft Patch Tuesday - August Edition"
 description: 
 date: 2023-08-15T21:00:23Z
 image: 
